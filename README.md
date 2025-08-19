@@ -8,9 +8,8 @@ Sou apaixonado por tecnologia, programação e aprendizado contínuo. Aqui você
 ## 🌟 Sobre mim  
 - 🎓 [Cursando ciência da computação]  
 - 💻 Apaixonado por **desenvolvimento de software** e **tecnologia**  
-- 🌱 Atualmente aprendendo: **[linguagens/tecnologias atuais]**  
-- 🎯 Objetivo: **[seu foco, ex: Desenvolvimento Web | IA | Redes | Segurança | etc.]**  
-- ⚡ Curiosidade: [alguma curiosidade divertida sobre você]  
+- 🌱 Atualmente aprendendo: **linguagens/tecnologias atuais**  
+- 🎯 Objetivo: **Desenvolvimento Web | IA | Redes | Segurança | etc.**  
 
 ---
 
